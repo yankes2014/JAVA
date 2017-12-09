@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">ScuharNaDzis</string>
+    <string name="app_name">Suchar Na Dziś</string>
     <string name="suchar_na_dzi">Suchar na dziś!</string>
-    <string name="wcisnij_losuj_aby_wylosowa_suchara_do_dzie_a">Wcisnij Losujaby wylosować Suchara. Do dzieła!</string>
-    <string name="wyjscie">Wyjscie</string>
+    <string name="wcisnij_losuj_aby_wylosowa_suchara_do_dzie_a">Wcisnij Losuj, aby wylosować Suchara. Do dzieła!</string>
+    <string name="wyjscie">Wyjście</string>
     <string name="poka_odpowied">Pokaż odpowiedź</string>
     <string name="textview">TextView</string>
     <string name="losuj">Losuj!</string>
